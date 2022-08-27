@@ -1,4 +1,4 @@
-# React Musci App FE
+# React Music App FE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
